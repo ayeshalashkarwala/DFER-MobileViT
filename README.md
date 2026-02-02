@@ -1,4 +1,4 @@
-# [**Driver Facial Expression Recognition using Global Cotext Vision Transformaers**](https://ieeexplore.ieee.org/document/10464794) : MobileViT Extension
+# [**Driver Facial Expression Recognition using Global Cotext Vision Transformers**](https://ieeexplore.ieee.org/document/10464794) : MobileViT Extension
 
 This repository contains the research project conducted at **Brandenburg University of Technology (BTU) Cottbus-Senftenberg**. The study evaluates the performance and efficiency of lightweight Vision Transformers for real-world driver monitoring systems.
 
