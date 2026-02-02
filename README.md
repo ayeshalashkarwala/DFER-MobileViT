@@ -40,6 +40,6 @@ The following metrics were recorded using the KMU-FED dataset:
 ---
 
 ## Contact
-**Author:** [Ayesha Fazal Lashkarwala]  
+**Author:** Ayesha Fazal Lashkarwala 
 **Institution:** Brandenburg University of Technology (BTU) Cottbus-Senftenberg  
-**Supervisor:** [Ibtissam Saadi, Douglas W. Cunningham]
+**Supervisor:** Ibtissam Saadi, Douglas W. Cunningham
